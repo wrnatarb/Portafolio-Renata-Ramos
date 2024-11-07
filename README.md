@@ -1,6 +1,4 @@
 
-      <h1 id="proyectofinal">ProyectoFinal</h1>
-
 <h1 id="para-qué-es-esta-propuesta">¿Para qué es esta propuesta?</h1>
 <p>Crear una plataforma interactiva y educativa que permita a los usuarios explorar las diferentes zonas de Chile. El sitio mostrará información visual y detallada de cada región, resaltando aspectos como la cultura, geografía, y sitios emblemáticos. También incluirá recomendaciones de destinos y actividades, donde esta vitrina ayudará a los usuarios a conocer la diversidad cultural y geográfica de Chile.</p>
 
