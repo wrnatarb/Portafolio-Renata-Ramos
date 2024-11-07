@@ -3,6 +3,10 @@
 Divulgación de trabajos de diseño y de arte personales, para que puedan conocer mis trabajos destacados en un solo lugar. 
 
 
+
+
+
+
 # ¿Para quiénes es esta propuesta? 
 # Usuario Extremo 1
 Perfil: joven adulto (25-35 años) interesado en pedirme un encargo artístico y conocer mis anteriores trabajos para tener de referencia.
