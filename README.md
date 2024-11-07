@@ -1,38 +1,79 @@
-
-<h1 id="para-qué-es-esta-propuesta">¿Para qué es esta propuesta?</h1>
-<p>Crear una plataforma interactiva y educativa que permita a los usuarios explorar las diferentes zonas de Chile. El sitio mostrará información visual y detallada de cada región, resaltando aspectos como la cultura, geografía, y sitios emblemáticos. También incluirá recomendaciones de destinos y actividades, donde esta vitrina ayudará a los usuarios a conocer la diversidad cultural y geográfica de Chile.</p>
-
-<h1 id="para-quiénes-es-esta-propuesta">¿Para quiénes es esta propuesta?</h1>
-<h1 id="usuario-extremo-1">Usuario extremo 1</h1>
-<p>Perfil: Persona jubilada desde los 65 años, vive en otro país. Tiene un interés en aprender sobre la cultura chilena y en explorar los lugares destacados del país desde la distancia. Tiene un conocimiento básico de internet. Necesidades y Metas: Busca una plataforma sencilla y visualmente atractiva que le permita explorar Chile sin tener que viajar. Desea aprender sobre la geografía chilena y su cultura, con una interfaz que sea fácil de usar. Contexto y Comportamiento: Navega en sitios web de manera esporádica, y disfruta de plataformas culturales. Prefiere sitios con imágenes descriptivas y texto claro que le permitan tener una experiencia de aprendizaje sin frustraciones. Frustraciones: Se siente frustradx con sitios web que presentan interfaces complicadas o con mucha información técnica. Le resulta difícil navegar en plataformas que no tienen una estructura clara. Motivaciones: La principal motivación es satisfacer su curiosidad cultural y aprender sobre la diversidad de Chile. Valora una experiencia visualmente rica y accesible que le permita reconectar y explorar el país de una manera cómoda y educativa.</p>
-
-<h1 id="usuario-extremo-2">Usuario extremo 2</h1>
-<p>Perfil: Estudiante universitario y reside en Chile. Es aficionadx a los deportes extremos y a las actividades al aire libre, y suele planificar sus escapadas con el apoyo de aplicaciones y sitios web de aventura. Utiliza con frecuencia su celular y es un usuario avanzado de aplicaciones móviles y herramientas interactivas. Necesidades y Metas: Desea encontrar una plataforma que le brinde recomendaciones de destinos poco convencionales en Chile, especialmente sitios ideales para practicar deportes como el senderismo, la escalada y el camping. Busca información sobre actividades específicas. Contexto y Comportamiento: Suele navegar en su celular mientras planifica su próxima salida, buscando información detallada sobre destinos y actividades. Prefiere experiencias visuales e interactivas que le permitan descubrir rápidamente los lugares y que ofrezcan contenido exclusivo y detallado de cada destino. Frustraciones: Se siente frustradx si el sitio no está optimizado para dispositivos móviles. La falta de imágenes de calidad o de rutas también lo desmotiva. Motivaciones: La motivación es explorar sitios auténticos y únicos en Chile, combinado con el deseo de descubrir nuevos lugares.</p>
-
-<h1 id="usuario-promedio">Usuario promedio</h1>
-<p>Perfil: Persona que trabaja y que reside en Chile, alrededor de 35 años. Le interesa el arte, la cultura y el turismo local, y suele planificar escapadas de fin de semana con su familia. Es una usuarix frecuente de su laptop y smartphone, y navega en sitios de turismo en busca de ideas para sus viajes.Necesidades y Metas: Necesita una plataforma que le ofrezca información confiable sobre destinos culturales y naturales en Chile, especialmente lugares que puedan ser disfrutados por toda la familia. Busca recomendaciones prácticas para viajes y valora una experiencia organizada y clara que le permita planificar con facilidad. Contexto y Comportamiento: Explora sitios de turismo en su tiempo libre. Valora la organización y la claridad en los sitios web, y prefiere encontrar recomendaciones sobre actividades que se adapten a su estilo de vida familiar. Frustraciones: Se frustra con sitios que no están bien organizados o que presentan información confusa. Motivaciones: La principal motivación es encontrar destinos que le permitan crear recuerdos valiosos, explorando la diversidad cultural y natural de Chile. Busca experiencias que le permitan disfrutar de viajes seguros y enriquecedores que se adapten a su dinámica.</p>
-
-<h1 id="qué-existe-que-es-similar-a-la-propuesta">¿Qué existe que es similar a la propuesta?</h1>
-<p><a href="https://viajes.nationalgeographic.com.es/">https://viajes.nationalgeographic.com.es/</a> : Destaco que el sitio utiliza imágenes de alta calidad que capturan la atención del usuario y complementan el contenido escrito. La información está organizada de manera lógica, facilitando la navegación y permitiendo a los usuarios encontrar rápidamente lo que buscan. Lo negativo es que está sobrecargada visualmente, texto y anuncios puede hacer que la interfaz se sienta saturada. La presencia de anuncios publicitarios dentro de las secciones de contenido distra al usuario.</p>
-
-<p><a href="https://fitzroy-travel.com/">https://fitzroy-travel.com/</a> : El sitio utiliza imágenes de alta calidad que capturan la atención del usuario y complementan el contenido escrito, incorpora elementos interactivos, como mapas y galerías de fotos, que fomentan la exploración del contenido. Lo negativo sería que la navegación requiere mucho desplazamiento, lo que puede resultar cansador para algunos usuarios.</p>
-
-<p><a href="https://antilophia.com/">https://antilophia.com/</a> : La calidad de imágenes y el orden como lo ordenan por continentes, países, es muy claro lo que mantiene la atención del usuario y permite navegar sin dificultad. Destaco que presenta una gran imagen de fondo en la portada, con un texto claro superpuesto. Lo negativo es que la página presenta imágenes con un estilo minimalista y espaciado, pero esto limita la cantidad de fotos.</p>
-
-<p><a href="https://bru-bru.com/">https://bru-bru.com/</a> : Se destaca que es muy intuitiva y fácil de navegar, con diferentes fotografías. También destaco que tenga diferentes opciones para ver “travel stories”, o simplemnte ver destinos, tipos de viaje, etc. Lo negatvo es que al apretar algún destino, las imágenes ya no están en tan buena calidad.Además de que se utiliza una variedad de colores que, en algunos casos, no combinan, y falta de cohesión visual.</p>
-
-<p><a href="https://travelworldescape.com/">https://travelworldescape.com/</a> : Utiliza imágenes de alta calidad que capturan la atención del usuario. Además destaca su compromiso con el turismo sostenible, promoviendo prácticas responsables y enfocándose en viajes que respeten el medio ambiente, donde apela a un público interesado en el impacto positivo de sus decisiones de viaje. Lo negativo es que se siente poco intuitivo, con una estructura que no guía claramente al usuario hacia las secciones principales o contenido destacado. Y la estructura es repetitiva y falta variación visual.</p>
-
-<p><a href="https://www.nelson.travel/">https://www.nelson.travel/</a> : Destaco que la información está ordenada y de manera lógica. Ofrece una experiencia de usuario fluida y atractiva, donde salen actividades y reseñas de diferentes lugares y hoteles. Lo negativo es que la paleta de colores es demasiado neutra y la portada no invita al usuario a explorar o interactuar más allá de lo visible,</p>
-
-<h1 id="qué-existe-que-puede-inspirar-la-propuesta">¿Qué existe que puede inspirar la propuesta?</h1>
-<p><img src="https://github.com/user-attachments/assets/2cf61ac1-c5e9-4768-a818-e5e1776de710" alt="Final" /></p>
+# Portafolio-Renata-Ramos
+# ¿Para qué es esta propuesta? 
+Divulgación de trabajos de diseño y de arte personales, para que puedan conocer mis trabajos destacados en un solo lugar. 
 
 
+# ¿Para quiénes es esta propuesta? 
+# Usuario Extremo 1
+Perfil: joven adulto (25-35 años) interesado en pedirme un encargo artístico y conocer mis anteriores trabajos para tener de referencia.
 
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
-</html>
+Necesidades y Metas: Busca una artista que pueda hacerle un retrato de sus mascotas, por lo que revisa varios perfiles de instagram buscando el estilo que le gusta.
+
+Contexto y Comportamiento: Suele regalar arte en los cumpleaños y apoyar a los emprendimientos. Sigue a muchos artistas en sus redes sociales. 
+
+Motivaciones: Está buscando una técnica particular, por lo que le interesa saber el desempeño del artista en diferentes técnica para saber cual le gusta más.
+
+Por qué, cómo, y cuándo navegará el sitio web:
+Por qué: Descubrio en instagram @hojacolorenfermizo y quiere conocer más de sus trabajos para poder encargarle un retrato.
+
+Cómo:  Pincha el link del perfil en instagram de @hojacolorenfermizo
+
+Cuándo: Cuando quiere encargar un retrato porque pronto viene el cumpleaños de su amiga.
+
+# Usuario Extremo 2
+Perfil: Persona adulta (30-50 años) reclutadora de una empresa a la cual postulé y mande mi portafolio.
+
+Necesidades y Metas: Necesita encontrar una diseñadora para que trabaje con ella. Necesita que la página sea rápida y eficiente. Necesita conocer las habilidades de la candidata.
+
+Contexto y Comportamiento: Suele ver muchos portafolios al día por lo que la primera impresión para ella lo es todo. 
+
+Frustraciones: La cansa cuando los portafolios están mal hechos o engorrosos.
+
+Motivaciones: Conseguir a la mejor diseñadora que se adecúa a la visión de su empresa.
+
+Por qué, cómo, y cuándo navegará el sitio web:
+Por qué: Está revisando las postulaciones ya enviadas.
+
+Cómo: Abre el link del correo que Renata le envío.
+
+Cuándo: Cuando está abierta la postulación.
+
+# Usuario Promedio
+Perfil: Persona joven-adulta (20-30 años) que estudia Diseño o disciplinas similares. Siente curiosidad sobre los portafolios de sus colegas así que comunmente busca inspiración en Behance.
+
+Necesidades y Metas: Necesita inspiración para crear su propio portafolio. Le gusta conocer los trabajos de sus compañeros ya que los puede tomar como referencia.
+
+Contexto y Comportamiento: Suele revisar portafolios en Behance. Sigue todas las cuentas de Diseño de sus compañeros y los apoya constantemente.
+
+Frustraciones: Se frusta revisando proyecto por proyecto en Behance. Cuando busca un referente tiene que ver varias fuentes de información antes de encontrar lo que buscaba.
+
+Motivaciones: Le motiva la curiosidad de ver que ha hecho su colega. 
+
+Por qué, cómo, y cuándo navegará el sitio web:
+Por qué: Quiere ver los trabajos de Renata.
+
+Cómo: Apreta el link que subió Renata a LinkedIn
+
+Cuándo: Cuando no tenga nada que hacer.
+
+# ¿Qué existe que es similar a la propuesta? 
+https://godly.website/website/unveil-1016
+Vitrina de fotografías con interfaz rápida, donde se puede conocer más del trabajo tras apretar un botón. Permite mostrar todos los trabajos, sin información, lo cual permite no sobrecargar de información al visitante de la página. Lo malo puede ser que puede ser una interfaz muy sensible al hacer scroll, lo cual dificulta la eficacia de acceder a cierto trabajo específico.
+
+https://godly.website/website/daniel-sun-1011
+Es un estilo de portafolio con gráfica más tradicional. Es intuitivo al basarse en el scroll y no tener que apretar tantas pantallas, sin embargo esto igual puede ser algo malo ya que llegar a cierta información puede ser muy tedioso y no todos los visitantes bajarán hasta el final. Sin embargo tiene animaciones que lo sigue haciendo interesante.
+
+https://godly.website/website/superhi-1010
+Tiene una estética llamativa y es una página que entrega información sobre el Diseño. Tiene animaciones que pueden ser agobiantes, ya que todo está animado. Sin embargo puede mostrar bien la escencia de la página ya que tiene los colores y estética que se asocia comunmente a lo creativo y el diseño gráfico.
+
+https://godly.website/website/10x-designers-981
+Página para diseñadores. Combina el scroll junto con las pestañas arriba. Me puede servir ya que quiero mostrar mi información personal con scroll. y luego quiero separar mis trabajos entre trabajos de diseño y trabajos artisticos. Algo bueno es que las animaciones no son excesivas sin embargo algo malo es que lo que es interactivo no es tan intuitivo que se puede mover.
+
+https://godly.website/website/jp-967
+Algo bueno es que se muestra un contraste al principio por lo que  me podría servir para al principio mostrar la parte de diseño y la otra de arte. Me parece una geometría tosca los cubos.
+
+https://godly.website/website/superhi-plus-955
+Me parece esteticamente interesante y tiene un botón grande que llama la atención. M e gusta el scroll de al prinicipio, y lo siguiente scroll me serviría para la info personal. No me gusta que sea tan largo el scroll vertical ya que perdería el interes mis usuarios. Por lo que lo combinaria con botones mas grandes que hagan decidir sobre diseño o arte.
+
+# ¿Qué existe que puede inspirar la propuesta?
+![moodboard](https://github.com/user-attachments/assets/b9366088-d48e-44a6-a407-48fe53df4026)
