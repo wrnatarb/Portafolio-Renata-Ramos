@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+ /* Configuración general */
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #E4D7EE; /* Color de fondo similar al de la imagen */
+      font-family: 'Playfair Display', sans-serif;
+      color: #2D2D2D; /* Color de texto oscuro */
+      text-align: center;
+    }
+
+    /* Estilo del encabezado principal */
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px 50px;
+      font-size: 1rem;
+    }
+
+    .header a {
+      text-decoration: none;
+      color: #2D2D2D;
+      margin: 0 10px;
+      font-family: 'Playfair Display', serif;
+      font-weight: 400;
+    }
+
+    .header a:hover {
+      text-decoration: underline;
+    }
+
+    .header .language-button {
+      padding: 5px 10px;
+      border: 1px solid #2D2D2D;
+      border-radius: 20px;
+      font-size: 0.9rem;
+    }
+
+    /* Contenedor del texto principal */
+    .intro {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      text-align: right;
+      height: calc(100vh - 80px); /* Altura ajustada para considerar el header */
+      padding: 0 30px;
+    }
+
+    
+
+    .intro h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: 3.5rem;
+      font-weight: 500;
+      margin: 0 50px 20px 100px;
+ 
+      text-indent: 300px;
+    }
