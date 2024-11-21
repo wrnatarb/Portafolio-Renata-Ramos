@@ -61,8 +61,8 @@ Cómo: Apreta el link que subió Renata a LinkedIn
 Cuándo: Cuando no tenga nada que hacer.
 
 # ¿Qué existe que es similar a la propuesta? 
-https://godly.website/website/unveil-1016
-Vitrina de fotografías con interfaz rápida, donde se puede conocer más del trabajo tras apretar un botón. Permite mostrar todos los trabajos, sin información, lo cual permite no sobrecargar de información al visitante de la página. Lo malo puede ser que puede ser una interfaz muy sensible al hacer scroll, lo cual dificulta la eficacia de acceder a cierto trabajo específico.
+[https://godly.website/website/unveil-1016](https://ayakaito.com/)
+Me gustó la gráfica colorida pero minimalista. Algo malo es que las animaciones del principio son algo confusas.
 
 https://godly.website/website/daniel-sun-1011
 Es un estilo de portafolio con gráfica más tradicional. Es intuitivo al basarse en el scroll y no tener que apretar tantas pantallas, sin embargo esto igual puede ser algo malo ya que llegar a cierta información puede ser muy tedioso y no todos los visitantes bajarán hasta el final. Sin embargo tiene animaciones que lo sigue haciendo interesante.
