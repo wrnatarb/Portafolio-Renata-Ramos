@@ -1,14 +1,14 @@
 [
     {
         "nombre": "Avatar",
-        "foto": "https://github.com/wrnatarb/Portafolio-Renata-Ramos/blob/main/imgs/avatar.jpg",
+        "foto": "[avatar.jpg]",
     },
     {
-        "nombre": "",
+        "nombre": "Violeta.wav",
         "fecha": "",
         "signo": "",
-        "foto": "",
-        "desc": "",
+        "foto": ["violeta-0.jpg"],
+        "desc": "Afiche de documental en colaboración con Prisma Distribution. Se hace a partir del cortometraje creado por el alumnado, en este caso Violeta.wav. Se rescata el símbolo de sirena.",
         "github": "",
         "fotos": ""
     },
