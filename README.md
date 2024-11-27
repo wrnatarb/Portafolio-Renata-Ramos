@@ -81,3 +81,6 @@ Me parece esteticamente interesante y tiene un botón grande que llama la atenci
 
 # ¿Qué existe que puede inspirar la propuesta?
 ![moodboard](https://github.com/user-attachments/assets/b9366088-d48e-44a6-a407-48fe53df4026)
+
+![avatar](https://github.com/user-attachments/assets/9bba2a7a-e1e4-4106-8508-8f7209be78ee)
+
