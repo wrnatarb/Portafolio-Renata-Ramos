@@ -7,43 +7,74 @@
       background-color: #E4D7EE;
       font-family: "Alegreya", serif;
       color: #2D2D2D;
+  padding-top: 56px; /* Asegura que el contenido no quede oculto detrás del navbar */
+}
     }
 
-    /* Estilo del encabezado principal */
-    .header {
-      display: flex;
-      justify-content: space-between;
-      padding: 20px 50px;
-      font-size: 1rem;
-    }
+   /* Estilo del encabezado principal */
 
-    .header a {
-      text-decoration: none;
-      color: #2D2D2D;
-      margin: 0 10px;
-      font-family: "Alegreya", serif;
-      font-weight: 400;
-    }
+.header {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap; /* Permitir que los elementos se ajusten */
+  padding: 20px 50px;
+  font-size: 1rem;
+  gap: 10px; /* Espaciado entre los elementos cuando se reorganicen */
+}
 
-    .header a:hover {
-      text-decoration: underline;
-    }
+/* Cambiar el color del navbar */
+.navbar {
+  background-color: #E4D7EE; /* Fondo fijo */
+  border-bottom: 1px solid #ccc; /* Opcional: añade un borde para destacar */
+  z-index: 1030; /* Asegura que esté por encima de otros elementos */
+  font-size: 1rem;
+  gap: 10px;
+}
+
+/* Estilo para los enlaces dentro del navbar */
+.navbar .nav-link {
+  color: #2D2D2D; /* Color del texto */
+}
+
+.navbar .nav-link:hover {
+  text-decoration: underline; /* Efecto al pasar el ratón */
+}
 
 
-    .language-selector select {
-  padding: 5px 10px;
-  font-size: 0.9rem;
-  border: 1px solid #2D2D2D;
-  border-radius: 20px;
+.container-fluid a {
+
+  text-decoration: none;
+  color: #2D2D2D;
+  margin: 0 10px;
   font-family: "Alegreya", serif;
   font-weight: 400;
-  background-color: #E4D7EE;
- 
- 
+  white-space: nowrap; /* Evitar que las palabras de los enlaces se dividan */
 }
-.language-selector select:hover {
-  cursor: pointer;
+
+.container-fluid a:hover {
+  text-decoration: underline;
 }
+
+
+/* Media query para pantallas pequeñas */
+@media (max-width: 600px) {
+  .header {
+    flex-direction: column; /* Reorganiza los elementos en una columna */
+    align-items: center; /* Centra los elementos en la pantalla */
+    padding: 10px; /* Reduce el espacio de padding */
+  }
+
+  .header a {
+    font-size: 0.9rem; /* Reduce el tamaño de la fuente */
+    margin: 5px 0; /* Espacio más pequeño entre enlaces */
+  }
+
+  .language-selector select {
+    font-size: 0.8rem; /* Ajusta el tamaño del selector */
+  }
+}
+
+
 
 
     /* Contenedor del texto principal */
@@ -115,4 +146,33 @@
   font-size: 1rem; /* Tamaño del párrafo */
 
        
+}
+
+.footer {
+  position: fixed; /* Se queda fijo en la parte inferior */
+  bottom: 0; /* Alínea al final de la pantalla */
+  left: 0;
+  width: 100%; /* Ocupa todo el ancho */
+  padding: 10px 20px; /* Espaciado interno */
+  font-size: 14px; /* Tamaño del texto */
+  z-index: 10; /* Asegura que esté encima de otros elementos */
+}
+
+.footer .footer-left {
+  display: inline-block; /* Alínealo en línea */
+}
+
+.footer .footer-right {
+  display: inline-block; /* También en línea */
+  float: right; /* Empújalo hacia la derecha */
+}
+
+.footer a {
+  color: #2D2D2D; /* Color de los enlaces */
+  text-decoration: none; /* Quita el subrayado */
+  margin: 0 5px; /* Espaciado entre enlaces */
+}
+
+.footer a:hover {
+  text-decoration: underline; /* Subrayado al pasar el mouse */
 }

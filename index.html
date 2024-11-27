@@ -35,18 +35,35 @@
 </head>
 <body>
   <!-- Menú de navegación -->
-  <header class="header">
-    <nav>
-      <a href="#">Sobre mí ♡</a>
-      <a href="#">Diseño</a>
-      <a href="#">Arte</a>
-    </nav>
+ <nav class="navbar navbar-expand-lg fixed-top">
+  <div class="container-fluid">
+
+    <a class="navbar-brand" href="index.html">♡</a>
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          
+           <a class="nav-link active" aria-current="page" href="page-1.html">Sobre mí</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="page-2.html">Diseño</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="page-3.html">Arte</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+  
     <div>
-      <div class="language-selector">
-  <select id="language-dropdown" onchange="changeLanguage()">
-    <option value="es">Español</option>
-    <option value="en">English</option>
-  </select>
+      
 </div>
     </div>
   </header>
@@ -58,21 +75,17 @@
   </div>
 </div>
 </div>
-<div class="container">
-  <div class="row">
-    <div class="col-4">
-     <div class="avatar">
-    <img src="https://github.com/user-attachments/assets/9bba2a7a-e1e4-4106-8508-8f7209be78ee" alt="Avatar de Renata">
+<footer class="footer d-flex align-items-center justify-content-between">
+  <div class="footer-left">
+    <p>&copy; 2024 Renata Ramos</p>
   </div>
-    </div>
-    <div class="col-8">
-      Estudiante de octavo semestre de Diseño en la Pontificia Universidad Católica de Chile. Se ha desempeñado con excelencia académica durante el pregrado. Con conocimientos en el Diseño Integral puede enfrentar proyectos interdisciplinarios, detectando oportunidades para la innovación y mejora de la calidad de vida de las personas.
-    </div>
-    <div class="col-sm">
-      
-    </div>
+  <div class="footer-right">
+  
+    <a href="https://www.linkedin.com/in/renata-ramos-basulto-542b092b2" target="_blank">LinkedIn</a> |
+    <a href="https://www.instagram.com/hojacolorenfermizo?igsh=cGo5aWJkczh3YnVt&utm_source=qr" target="_blank">Instagram</a> |
+    <a href="mailto:renata.ramos@ucl">Email</a>
   </div>
-</div>
+</footer>
 </main>
   </div>
 <script>
