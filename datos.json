@@ -1,32 +1,95 @@
 [
-  {
-    "titulo": "Avatar",
-    "descripcion": "Breve descripción del proyecto Avatar.",
-    "imagen": "https://via.placeholder.com/300x200"
+    {
+        "nombre": "Violeta.wav",
+        "signo": "visual",
+        "foto": ["violeta-0.jpg"] ,
+        "desc": "Afiche de documental en colaboración con Prisma Distribution. Se hace a partir del cortometraje creado por el alumnado, en este caso Violeta.wav. Se rescata el símbolo de sirena.",
+         "fotos": ["violeta-1.jpg","violeta-2.jpg", "violeta-3.jpg"] 
+          },
+    {
+        "nombre": "Invasion a la biodiversidad",
+        "fecha": "2024-02",
+        "signo": "visual",
+        "foto": ["infografia-0.jpg"] ,
+        "desc": "Afiche infográfico con la tematica de expansión urbana hacia la precordillera, y como este ha afectado a la fauna silvestre chilena.",
+        "github": "https://github.com/wrnatarb",
+         "fotos": ["infografia-1.jpg","infografia-2.jpg", "infografia-3.jpg"]
+
+          },
+    {
+        "nombre": "La Rebeldia de los Cuerpos Atravesado",
+        "fecha": "2024-01",
+        "signo": "visual",
+        "desc": "Publicación homenaje a la obra inmersiva La Casa de Granada, de la compañía de teatro La Calderona. El libro da conocer las historias y rebeldías de cada personaje, y la relación entre el silencio, las violencias de género y la memoria.",
+        "foto": ["libro-0.jpg"] ,
+        "github": "https://github.com/wrnatarb",
+         "fotos": ["libro-1.jpg","libro-2.jpg", "libro-3.jpg"]
+          },
+    {
+        "nombre": "Fanzine",
+        "fecha": "2023-01",
+        "signo": "visual",
+        "desc": "Publicacion individual hecha a partir de ilustraciones digitales realizadas en Procreate. El fanzine consiste en capitulos con diferentes historias y personajes en un dia de lluvia",
+        "foto": ["fanzine-0.jpg"] ,
+        "github": "https://github.com/wrnatarb",
+         "fotos": ["fanzine-1.jpg","fanzine-2.jpg", "fanzine-3.jpg"]
+          },
+   
+    {
+        "nombre": "CBRE",
+        "fecha": "2024-00",
+        "signo": "visual",
+        "foto": ["cbre-0.jpg"] ,
+        "github": "https://github.com/wrnatarb",
+        "desc": "Portada para agenda de CBRE Argentina, se diseña con ilustraciones representativas de Buenos Aires.",
+                "fotos": ["cbre-1.jpg","cbre-2.jpg", "cbre-3.jpg"]
+                },
+    {
+        "nombre": "Yunus",
+        "fecha": "2023-02",
+        "signo": "industrial",
+        "foto": ["yunus-0.jpg"] ,
+        "github": "https://github.com/wrnatarb",
+        "desc": "Diseño de zona de recepcion de academia Yunus, con la aintención de marcar la entrada y ordenar la entrega de información.",
+        "fotos": ["yunus-1.jpg","yunus-2.jpg", "yunus-3.jpg"]
+         },
+    
+    {
+        "nombre": "BANKI",
+        "fecha": "2023-02",
+        "signo": "industrial",
+        "foto": ["banki-0.jpg"] ,
+        "github": "https://github.com/wrnatarb",
+        "desc": "Diseño de asiento en base a manufactura digital a partir de encajes y ensambles.",
+                "fotos": ["banki-1.jpg","banki-2.jpg", "banki-3.jpg"]
   },
-  {
-    "titulo": "Violeta.wav",
-    "descripcion": "Afiche de documental en colaboración con Prisma Distribution.",
-    "imagen": "https://via.placeholder.com/300x200"
-  },
-  {
-    "titulo": "Proyecto 1",
-    "descripcion": "Descripción breve del proyecto 1.",
-    "imagen": "https://via.placeholder.com/300x200"
-  },
-  {
-    "titulo": "Proyecto 2",
-    "descripcion": "Descripción breve del proyecto 2.",
-    "imagen": "https://via.placeholder.com/300x200"
-  },
-  {
-    "titulo": "Proyecto 3",
-    "descripcion": "Descripción breve del proyecto 3.",
-    "imagen": "https://via.placeholder.com/300x200"
-  },
-  {
-    "titulo": "Proyecto 4",
-    "descripcion": "Descripción breve del proyecto 4.",
-    "imagen": "https://via.placeholder.com/300x200"
-  }
+    {
+        "nombre": "Equita",
+        "fecha": "2024-01",
+        "signo": "servicios",
+        "foto": ["equita-0.jpg"] ,
+        "github": "https://github.com/wrnatarb",
+        "desc": "Servicio digital diseñado para reducir la violencia ginecologica en Chile. Ganadora de segundo lugar en el Reto Philips de Service Design Challenge 2024 con una mención honorosa en la competencia general.",
+                "fotos": ["equita-1.jpg","equita-2.jpg", "equita-3.jpg"]
+
+ },
+    {
+        "nombre": "Renca Reciclaje",
+        "fecha": "2022-02",
+        "signo": "servicios",
+        "foto": ["renca-0.jpg"] ,
+        "github": "https://github.com/wrnatarb",
+        "desc": "Sistema de productos interactivos para mejorar la experiencia de reciclaje. Se trabaja en colaboración con Puentes UC.",
+        "fotos": ["renca-1.jpg","renca-2.jpg", "renca-3.jpg"]},
+    {
+     
+        "nombre": "Luminaria Swirl",
+        "fecha": "2023-02",
+        "signo": "industrial",
+        "foto": ["swirl-0.jpg"] ,
+        "github": "https://github.com/wrnatarb",
+        "desc": "Diseño de luminaria urbana a partir de asiento referente Twist de Roberto Simprini. Hecha a partir de UHPC.",
+         "fotos": ["swirl-1.jpg","swirl-2.jpg", "swirl-3.jpg"]
+
+}
 ]
