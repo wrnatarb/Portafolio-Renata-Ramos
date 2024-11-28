@@ -149,6 +149,7 @@
 }
 
 .footer {
+  background-color: #E4D7EE;
   position: fixed; /* Se queda fijo en la parte inferior */
   bottom: 0; /* Alínea al final de la pantalla */
   left: 0;
@@ -175,4 +176,11 @@
 
 .footer a:hover {
   text-decoration: underline; /* Subrayado al pasar el mouse */
+}
+
+.card-img-overlay {
+  transition: all 0.3s ease-in-out;
+}
+.card-img-overlay:hover {
+  background-color: rgba(0, 0, 0, 0.6);
 }
