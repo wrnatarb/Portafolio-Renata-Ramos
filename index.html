@@ -54,7 +54,6 @@
           <a class="nav-link" href="#diseño">Diseño</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#arte">Arte</a>
         </li>
       </ul>
     </div>
@@ -114,23 +113,12 @@
 
  <div class="page-section servicio" id="diseño">
 
+ <div class="container text-center mt-5" id="projects">
+    <h2 class="mb-4"></h2>
+    <div class="row" id="projects-container">
 
-
-
-
-
-
-
-   <div class="page-section servicio" id="arte">
-
-
-
-
-
-
-
-
-
+<div class="container text-center mt-5" id="projects">
+   
 
 
 <footer class="footer d-flex align-items-center justify-content-between">
@@ -156,18 +144,101 @@
       </div>
     </div>
      
-           
+          
             <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
         </div>
 
 
-    <script>
-       
+    </div>
+  </div>
+</div>
 
-        </script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const projectsData = [
+      {
+        nombre: "Violeta.wav",
+        subtitulo: "visual",
+        foto: "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/violeta-0.jpg",
+        descripcion:
+          "Afiche de documental en colaboración con Prisma Distribution. Se hace a partir del cortometraje creado por el alumnado, en este caso Violeta.wav. Se rescata el símbolo de sirena.",
+      },
+      {
+        nombre: "Invasion a la biodiversidad",
+        subtitulo: "visual",
+        foto: "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/infografia-0.jpg",
+        descripcion:
+          "Afiche infográfico con la temática de expansión urbana hacia la precordillera, y cómo este ha afectado a la fauna silvestre chilena.",
+      },
+      {
+        nombre: "La Rebeldía de los Cuerpos Atravesado",
+        subtitulo: "visual",
+        foto: "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/libro-0.jpg",
+        descripcion:
+          "Publicación homenaje a la obra inmersiva La Casa de Granada, de la compañía de teatro La Calderona.",
+      },
+      {
+        nombre: "Fanzine",
+        subtitulo: "visual",
+        foto: "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/fanzine-0.jpg",
+        descripcion:
+          "Publicación individual hecha a partir de ilustraciones digitales realizadas en Procreate.",
+      },
+      {
+        nombre: "CBRE",
+        subtitulo: "visual",
+        foto: "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/cbre-0.jpg",
+        descripcion:
+          "Portada para agenda de CBRE Argentina, con ilustraciones representativas de Buenos Aires.",
+      },
+      {
+        nombre: "BANKI",
+        subtitulo: "industrial",
+        foto: "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/banki-0.jpg",
+        descripcion:
+          "Diseño de asiento en base a manufactura digital a partir de encajes y ensambles.",
+      },
+      {
+        nombre: "Equita",
+        subtitulo: "servicios",
+        foto: "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/equita-0.jpg",
+        descripcion:
+          "Servicio digital diseñado para reducir la violencia ginecológica en Chile.",
+      },
+      {
+        nombre: "Renca Reciclaje",
+        subtitulo: "servicios",
+        foto: "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/renca-0.jpg",
+        descripcion:
+          "Sistema de productos interactivos para mejorar la experiencia de reciclaje.",
+      },
+      {
+        nombre: "Luminaria Swirl",
+        subtitulo: "industrial",
+        foto: "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/swirl-0.jpg",
+        descripcion:
+          "Diseño de luminaria urbana a partir del asiento Twist de Roberto Simprini.",
+      },
+    ];
 
+    const container = document.querySelector("#projects-container");
 
-
+    projectsData.forEach((proyecto) => {
+      const projectCard = `
+        <div class="col-md-4 mb-4">
+          <div class="card shadow h-100">
+            <img src="${proyecto.foto}" class="card-img-top" alt="${proyecto.nombre}">
+            <div class="card-body">
+              <h5 class="card-title">${proyecto.nombre}</h5>
+              <p class="card-text">${proyecto.descripcion}</p>
+            </div>
+          </div>
+        </div>
+      `;
+      container.innerHTML += projectCard;
+    });
+  });
+</script>
 
     </body>
 </html>

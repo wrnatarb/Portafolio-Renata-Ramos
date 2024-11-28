@@ -178,9 +178,63 @@
   text-decoration: underline; /* Subrayado al pasar el mouse */
 }
 
-.card-img-overlay {
-  transition: all 0.3s ease-in-out;
+/* Estilos para las tarjetas */
+/* Estilos para las tarjetas */
+.card {
+    position: relative;
+    overflow: hidden;
+    border: none;
+    border-radius: 10px;
 }
-.card-img-overlay:hover {
-  background-color: rgba(0, 0, 0, 0.6);
+
+.card-image {
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    transition: transform 0.3s ease;
+}
+
+.card-description {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: #E4D7EE;
+    padding: 10px;
+    border-radius: 5px;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+.card:hover .card-image {
+    transform: scale(1.1); /* Efecto de zoom al hacer hover */
+}
+
+.card:hover .card-description {
+    opacity: 1;
+    visibility: visible;
+}
+
+.card-description h5 {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.card-description p {
+    font-size: 1em;
+    margin-top: 5px;
+}
+
+/* Ajuste para móviles */
+@media (max-width: 767px) {
+    .card-description h5 {
+        font-size: 1.1em;
+    }
+    .card-description p {
+        font-size: 0.9em;
+    }
 }
