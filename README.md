@@ -1,6 +1,6 @@
 # Portafolio-Renata-Ramos
 # ¿Para qué es esta propuesta? 
-Divulgación de trabajos de diseño y de arte personales, para que puedan conocer mis trabajos destacados en un solo lugar. 
+Divulgación de trabajos de diseño personales, para que puedan conocer mis trabajos destacados en un solo lugar. 
 
 
 
@@ -9,20 +9,20 @@ Divulgación de trabajos de diseño y de arte personales, para que puedan conoce
 
 # ¿Para quiénes es esta propuesta? 
 # Usuario Extremo 1
-Perfil: joven adulto (25-35 años) interesado en pedirme un encargo artístico y conocer mis anteriores trabajos para tener de referencia.
+Perfil: joven adulto (25-35 años) interesado en pedirme un encargo de diseño y conocer mis anteriores trabajos para tener de referencia.
 
-Necesidades y Metas: Busca una artista que pueda hacerle un retrato de sus mascotas, por lo que revisa varios perfiles de instagram buscando el estilo que le gusta.
+Necesidades y Metas: Busca un diseñador freelance que pueda hacerle un pequeño encargo.
 
-Contexto y Comportamiento: Suele regalar arte en los cumpleaños y apoyar a los emprendimientos. Sigue a muchos artistas en sus redes sociales. 
+Contexto y Comportamiento: No suele tener esta necesidad por lo que esta perdido sobre como conseguir un diseñador.
 
-Motivaciones: Está buscando una técnica particular, por lo que le interesa saber el desempeño del artista en diferentes técnica para saber cual le gusta más.
+Motivaciones: Conocer mis habilidades y trabajos anteriores
 
 Por qué, cómo, y cuándo navegará el sitio web:
-Por qué: Descubrio en instagram @hojacolorenfermizo y quiere conocer más de sus trabajos para poder encargarle un retrato.
+Por qué: Descubrio en instagram @hojacolorenfermizo y quiere conocer más de sus trabajos para poder encargar un trabajo de diseño
 
 Cómo:  Pincha el link del perfil en instagram de @hojacolorenfermizo
 
-Cuándo: Cuando quiere encargar un retrato porque pronto viene el cumpleaños de su amiga.
+Cuándo: Cuando quiere encargar un encargo de diseño
 
 # Usuario Extremo 2
 Perfil: Persona adulta (30-50 años) reclutadora de una empresa a la cual postulé y mande mi portafolio.
