@@ -2,91 +2,116 @@
     {
         "nombre": "Violeta.wav",
         "subtitulo": "visual",
-        "foto": "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/violeta-0.jpg" ,
+        "foto": "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/violeta-0.jpg",
         "descripcion": "Afiche de documental en colaboración con Prisma Distribution. Se hace a partir del cortometraje creado por el alumnado, en este caso Violeta.wav. Se rescata el símbolo de sirena.",
-         "fotos": ["violeta-1.jpg","violeta-2.jpg", "violeta-3.jpg"] 
-          },
+        "fotos": [
+            "violeta-1.jpg",
+            "violeta-2.jpg",
+            "violeta-3.jpg"
+        ]
+    },
     {
         "nombre": "Invasion a la biodiversidad",
         "fecha": "2024-02",
         "subtitulo": "visual",
-        "foto": "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/infografia-0.jpg" ,
+        "foto": "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/infografia-0.jpg",
         "descripcion": "Afiche infográfico con la tematica de expansión urbana hacia la precordillera, y como este ha afectado a la fauna silvestre chilena.",
         "github": "https://github.com/wrnatarb",
-         "fotos": ["infografia-1.jpg","infografia-2.jpg", "infografia-3.jpg"]
-
-          },
+        "fotos": [
+            "infografia-1.jpg",
+            "infografia-2.jpg",
+            "infografia-3.jpg"
+        ]
+    },
     {
         "nombre": "La Rebeldia de los Cuerpos Atravesado",
         "fecha": "2024-01",
         "subtitulo": "visual",
         "descripcion": "Publicación homenaje a la obra inmersiva La Casa de Granada, de la compañía de teatro La Calderona. El libro da conocer las historias y rebeldías de cada personaje, y la relación entre el silencio, las violencias de género y la memoria.",
-        "foto": "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/libro-0.jpg" ,
+        "foto": "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/libro-0.jpg",
         "github": "https://github.com/wrnatarb",
-         "fotos": ["libro-1.jpg","libro-2.jpg", "libro-3.jpg"]
-          },
+        "fotos": [
+            "libro-1.jpg",
+            "libro-2.jpg",
+            "libro-3.jpg"
+        ]
+    },
     {
         "nombre": "Fanzine",
         "fecha": "2023-01",
         "subtitulo": "visual",
         "descripcion": "Publicacion individual hecha a partir de ilustraciones digitales realizadas en Procreate. El fanzine consiste en capitulos con diferentes historias y personajes en un dia de lluvia",
-        "foto": "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/fanzine-0.jpg" ,
+        "foto": "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/fanzine-0.jpg",
         "github": "https://github.com/wrnatarb",
-         "fotos": ["fanzine-1.jpg","fanzine-2.jpg", "fanzine-3.jpg"]
-          },
-   
+        "fotos": [
+            "fanzine-1.jpg",
+            "fanzine-2.jpg",
+            "fanzine-3.jpg"
+        ]
+    },
     {
         "nombre": "CBRE",
         "fecha": "2024-00",
         "subtitulo": "visual",
-        "foto": "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/cbre-0.jpg" ,
+        "foto": "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/cbre-0.jpg",
         "github": "https://github.com/wrnatarb",
         "descripcion": "Portada para agenda de CBRE Argentina, se diseña con ilustraciones representativas de Buenos Aires.",
-                "fotos": ["cbre-1.jpg","cbre-2.jpg", "cbre-3.jpg"]
-                },
-    
-    
+        "fotos": [
+            "cbre-1.jpg",
+            "cbre-2.jpg",
+            "cbre-3.jpg"
+        ]
+    },
     {
         "nombre": "BANKI",
         "fecha": "2023-02",
         "subtitulo": "industrial",
-        "foto": "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/banki-0.jpg" ,
+        "foto": "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/banki-0.jpg",
         "github": "https://github.com/wrnatarb",
         "descripcion": "Diseño de asiento en base a manufactura digital a partir de encajes y ensambles.",
-                "fotos": ["banki-1.jpg","banki-2.jpg", "banki-3.jpg"]
-  },
+        "fotos": [
+            "banki-1.jpg",
+            "banki-2.jpg",
+            "banki-3.jpg"
+        ]
+    },
     {
         "nombre": "Equita",
         "fecha": "2024-01",
         "subtitulo": "servicios",
-        "foto": "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/equita-0.jpg" ,
+        "foto": "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/equita-0.jpg",
         "github": "https://github.com/wrnatarb",
         "descripcion": "Servicio digital diseñado para reducir la violencia ginecologica en Chile. Ganadora de segundo lugar en el Reto Philips de Service Design Challenge 2024 con una mención honorosa en la competencia general.",
-                "fotos": ["equita-1.jpg","equita-2.jpg", "equita-3.jpg"]
-
- },
+        "fotos": [
+            "equita-1.jpg",
+            "equita-2.jpg",
+            "equita-3.jpg"
+        ]
+    },
     {
         "nombre": "Renca Reciclaje",
         "fecha": "2022-02",
         "subtitulo": "servicios",
-        "foto": "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/renca-0.jpg" ,
+        "foto": "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/renca-0.jpg",
         "github": "https://github.com/wrnatarb",
         "descripcion": "Sistema de productos interactivos para mejorar la experiencia de reciclaje. Se trabaja en colaboración con Puentes UC.",
-        "fotos": ["renca-1.jpg","renca-2.jpg", "renca-3.jpg"]},
+        "fotos": [
+            "renca-1.jpg",
+            "renca-2.jpg",
+            "renca-3.jpg"
+        ]
+    },
     {
-     
         "nombre": "Luminaria Swirl",
         "fecha": "2023-02",
         "subtitulo": "industrial",
-        "foto": "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/swirl-0.jpg" ,
+        "foto": "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/swirl-0.jpg",
         "github": "https://github.com/wrnatarb",
         "descripcion": "Diseño de luminaria urbana a partir de asiento referente Twist de Roberto Simprini. Hecha a partir de UHPC.",
-         "fotos": ["swirl-1.jpg","swirl-2.jpg", "swirl-3.jpg"]
-
-}
-
-
+        "fotos": [
+            "swirl-1.jpg",
+            "swirl-2.jpg",
+            "swirl-3.jpg"
+        ]
+    }
 ]
-
-
-
