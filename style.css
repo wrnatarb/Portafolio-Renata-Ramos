@@ -202,7 +202,7 @@
     left: 20px;
     right: 20px;
     background-color: rgba(0, 0, 0, 0.6);
-    color: #E4D7EE;
+    color: white;
     padding: 10px;
     border-radius: 5px;
     opacity: 0;
@@ -210,24 +210,6 @@
     transition: opacity 0.3s ease, visibility 0.3s ease;
 }
 
-.card:hover .card-image {
-    transform: scale(1.1); /* Efecto de zoom al hacer hover */
-}
-
-.card:hover .card-description {
-    opacity: 1;
-    visibility: visible;
-}
-
-.card-description h5 {
-    font-size: 1.2em;
-    font-weight: bold;
-}
-
-.card-description p {
-    font-size: 1em;
-    margin-top: 5px;
-}
 
 /* Ajuste para móviles */
 @media (max-width: 767px) {
@@ -236,5 +218,5 @@
     }
     .card-description p {
         font-size: 0.9em;
-    }
+    
 }

@@ -7,8 +7,8 @@
   <meta name="description" content="Portafolio de arte y diseño de Renata Ramos, estudiante de Diseño Integral en la Pontificia Universidad Católica">
   <meta name="keywords" content="Diseño, Renata, Ramos, Basulto, diseño gráfico, diseño editorial, Design, Portafolio de diseño, diseño de servicios, Renata Ramos, Diseño, UC, Arte, Chile">
   <meta name="author" content="Renata Ramos">
-  <meta name="robots" content="noindex,nofollow">
-  <link rel="canonical" href="https://renataramos.cl/">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://renataramos.cl/main">
   <!--  fuente League Script -->
   <link href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
   <!-- Primary Meta Tags -->
@@ -51,7 +51,7 @@
            <a class="nav-link active" aria-current="page" href="#about">Sobre mí</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#diseño">Diseño</a>
+          <a class="nav-link" href="#diseno">Diseño</a>
         </li>
         <li class="nav-item">
         </li>
@@ -111,7 +111,6 @@
   </div>
 </div>
 
- <div class="page-section servicio" id="diseño">
 
  <div class="container text-center mt-5" id="projects">
     <h2 class="mb-4"></h2>
@@ -143,102 +142,92 @@
 
       </div>
     </div>
-     
+    
           
             <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
         </div>
 
 
-    </div>
-  </div>
-</div>
 
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const projectsData = [
-      {
-        nombre: "Violeta.wav",
-        subtitulo: "visual",
-        foto: "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/violeta-0.jpg",
-        descripcion:
-          "Afiche de documental en colaboración con Prisma Distribution. Se hace a partir del cortometraje creado por el alumnado, en este caso Violeta.wav. Se rescata el símbolo de sirena.",
-      },
-      {
-        nombre: "Invasion a la biodiversidad",
-        subtitulo: "visual",
-        foto: "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/infografia-0.jpg",
-        descripcion:
-          "Afiche infográfico con la temática de expansión urbana hacia la precordillera, y cómo este ha afectado a la fauna silvestre chilena.",
-      },
-      {
-        nombre: "La Rebeldía de los Cuerpos Atravesado",
-        subtitulo: "visual",
-        foto: "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/libro-0.jpg",
-        descripcion:
-          "Publicación homenaje a la obra inmersiva La Casa de Granada, de la compañía de teatro La Calderona.",
-      },
-      {
-        nombre: "Fanzine",
-        subtitulo: "visual",
-        foto: "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/fanzine-0.jpg",
-        descripcion:
-          "Publicación individual hecha a partir de ilustraciones digitales realizadas en Procreate.",
-      },
-      {
-        nombre: "CBRE",
-        subtitulo: "visual",
-        foto: "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/cbre-0.jpg",
-        descripcion:
-          "Portada para agenda de CBRE Argentina, con ilustraciones representativas de Buenos Aires.",
-      },
-      {
-        nombre: "BANKI",
-        subtitulo: "industrial",
-        foto: "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/banki-0.jpg",
-        descripcion:
-          "Diseño de asiento en base a manufactura digital a partir de encajes y ensambles.",
-      },
-      {
-        nombre: "Equita",
-        subtitulo: "servicios",
-        foto: "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/equita-0.jpg",
-        descripcion:
-          "Servicio digital diseñado para reducir la violencia ginecológica en Chile.",
-      },
-      {
-        nombre: "Renca Reciclaje",
-        subtitulo: "servicios",
-        foto: "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/renca-0.jpg",
-        descripcion:
-          "Sistema de productos interactivos para mejorar la experiencia de reciclaje.",
-      },
-      {
-        nombre: "Luminaria Swirl",
-        subtitulo: "industrial",
-        foto: "https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/imgs/swirl-0.jpg",
-        descripcion:
-          "Diseño de luminaria urbana a partir del asiento Twist de Roberto Simprini.",
-      },
-    ];
 
-    const container = document.querySelector("#projects-container");
 
-    projectsData.forEach((proyecto) => {
-      const projectCard = `
-        <div class="col-md-4 mb-4">
-          <div class="card shadow h-100">
-            <img src="${proyecto.foto}" class="card-img-top" alt="${proyecto.nombre}">
-            <div class="card-body">
-              <h5 class="card-title">${proyecto.nombre}</h5>
-              <p class="card-text">${proyecto.descripcion}</p>
+<div class="page-section servicio" id="diseno">
+  <div class="container">
+ <h1>Mis trabajos de <em>Diseño</em></h1>
+ <header class="selector">
+                <h1 class="display-1 my-3"></h1>
+                <select class="form-select my-3">
+                    <option value="todos">Filtra mis trabajos de Diseño</option>
+                    <option value="industrial">Diseño Industrial</option>
+                    <option value="servicios">Diseño Servicios</option>
+                    <option value="visual">Diseño Visual</option>
+                </select>
+            </header>
+
+            <div class="containermain text-center">
+                <main class="row row-cols-3 row-cols-sm3 row-cols-md-4 row-cols-lg-3 g-3 g-lg-3"></main>
+                </div>
+                    </div>
+                    <div class="col-9">
+                        <div class="d-flex justify-content-center">
+                            <ul class="list-unstyled d-flex justify-content-end">
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-3">
+                        <span class="mb-3 mb-md-0 text-body-secondary">&copy; Renata Ramos</span>
+                    </div>
+                
+
+                <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
             </div>
-          </div>
-        </div>
-      `;
-      container.innerHTML += projectCard;
-    });
-  });
-</script>
 
+            <script>
+                //unas variables que no varían, que son constantes:
+
+                const principal = document.querySelector("main");
+
+                const seleccion = document.querySelector("select");
+
+                //acá voy por el JSON
+
+                async function astros() {
+                    const consulta = await fetch("https://raw.githubusercontent.com/wrnatarb/Portafolio-Renata-Ramos/refs/heads/main/datos.json");
+                    const data = await consulta.json();
+                    console.log(data);
+
+                    data.forEach(
+                        (d, i) =>
+                            (principal.innerHTML += `
+                    <div class="${d.signo} col mb-3">
+                    <div class="card  border-dark"> 
+                   <a href="single.html?data=${i}"><img src="${d.foto}" class="card-img-top default-img" alt="${d.fecha}"  style= "height: 750;" ></a>
+                   
+            </div>
+            </div>         
+                   `)
+                    );
+
+                    seleccionables();
+                }
+
+                astros().catch((error) => console.error(error));
+
+                //lo que sigue es una función que ejecuto dentro de astros()
+
+                var valor;
+                function seleccionables() {
+                    seleccion.addEventListener("change", (e) => {
+                        document.querySelectorAll(".col").forEach((t) => t.classList.add("d-none"));
+                        valor = e.target.value;
+                        if (valor !== "todos") {
+                            document.querySelectorAll(`.${valor}`).forEach((t) => t.classList.remove("d-none"));
+                        } else {
+                            document.querySelectorAll("div").forEach((t) => t.classList.remove("d-none"));
+                        }
+                    });
+                }
+            </script>
     </body>
 </html>
