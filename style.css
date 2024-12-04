@@ -90,7 +90,7 @@
 
     .intro h1 {
       font-family: "Alegreya", serif;
- font-size: calc(2rem + 1.6vw);
+ font-size: calc(2rem + 1vw);
       font-weight: 500;
        margin: 0 auto; 
        padding: 0 1rem; 
